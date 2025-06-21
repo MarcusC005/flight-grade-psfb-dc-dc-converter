@@ -1,4 +1,4 @@
-# 🛰 Flight-Grade PSFB DC-DC Converter (100 V → 400 V, 300 W)
+#  Flight-Grade PSFB DC-DC Converter (100 V → 400 V, 300 W)
 
 This repository contains the complete LTspice simulation and technical documentation for a high-efficiency Phase-Shifted Full-Bridge (PSFB) converter designed for aerospace applications. This project serves as the second stage in a three-stage electric propulsion power supply system.
 
