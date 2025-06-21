@@ -1,0 +1,10 @@
+Pin: AVG(V(Vin)*I(Vin))=-304.755829698 FROM 0.009 TO 0.01
+Pout: AVG(V(Vout)*I(Rload))=300.005765328 FROM 0.009 TO 0.01
+Efficiency: 100*Pout/Pin=-98.4413540589
+P_Lpri: AVG(V(Lpri_top, Lpri_bot)*I(Lpri))=300.559187279 FROM 0.009 TO 0.01
+P_Lsec: AVG(V(Lsec_top, Lsec_bot)*I(Lsec))=-299.180382035 FROM 0.009 TO 0.01
+Vout_avg: AVG(V(Vout))=400.002593087 FROM 0.009 TO 0.01
+Iin: AVG(I(Vin))=-3.04755829698 FROM 0.009 TO 0.01
+Vout_max: MAX(V(Vout))=400.042633057 FROM 0.009 TO 0.01
+Vout_min: MIN(V(Vout))=399.974517822 FROM 0.009 TO 0.01
+V_ripple: Vout_max - Vout_min=0.068115234375
